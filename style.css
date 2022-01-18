@@ -1,3 +1,90 @@
-body  {
-    background: rgb(107, 212, 107);
+html, body {
+    height: 100%;
+    min-height: 100%;
 }
+
+body  {
+    background: url(../myfirst-webpage/images/background/sunset.jpeg) center;
+    background-size:100%;
+    background-attachment:scroll ;
+    font-family: Arial;
+    font-size: 100%;
+    color:aliceblue;
+    text-align: center;
+    
+
+    
+}
+#image1 {
+
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  height: 25%;
+}
+
+#theImage 
+
+{  
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  height: 5%;
+  
+}
+
+
+.wrapper {
+    margin: 0 auto;
+    width: 10%;
+    padding-bottom: 40px;
+  }
+  
+  #content {
+    padding: 25px;
+    background: rgba(192, 127, 89, 0.74);
+  }
+  
+  h1, h2 {
+    font-family: 'Gabriela', serif;
+    color: #fff;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 3.5em;
+    margin-bottom: 0;
+  }
+  
+  h2 {
+    font-size: 1.5em;
+    margin-top: .5em;
+  }
+  
+  h3 {
+    font-family: 'Gabriela', serif;
+    font-size: 1.5em;
+    margin-top: .5em;
+  }
+  
+  img {
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+  }
+  
+  p {
+    font-size: 1em;
+  }
+  
+  a {
+    color: black;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
