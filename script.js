@@ -22,5 +22,7 @@ function myFunction() {
   alert('I was clicked!');
 }
 
+
+
 h1.addEventListener('click', clickAlert);
-theImage.addEventListener('click', clickAlert);
+theImage.addEventListener('click', clickAlert)
