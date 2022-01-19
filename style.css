@@ -77,6 +77,7 @@ display: block;
     margin-top: .5em;
   }
   
+  
   img {
     max-width: 100%;
     width: 100%;
@@ -99,4 +100,10 @@ display: block;
   a:hover {
     text-decoration: underline;
   }
+
+  #list {
+    text-align:center;
+    display:inline-table;
+  }
+  
   

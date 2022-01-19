@@ -19,7 +19,7 @@ function myFunction() {
  
 
  function clickAlert() {
-  alert('I was clicked!');
+  alert('Stop clicking on Me!');
 }
 
 
